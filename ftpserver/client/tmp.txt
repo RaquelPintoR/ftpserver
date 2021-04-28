@@ -1,0 +1,5 @@
+-rw-rw-r-- 1 rpinto rpinto   318 abr 27 09:57 makefile
+-rwxrwxr-x 1 rpinto rpinto 52232 abr 27 10:31 pre-thread
+-rw-rw-r-- 1 rpinto rpinto  8476 abr 27 10:31 pre-thread.c
+-rw-rw-r-- 1 rpinto rpinto 55872 abr 27 10:31 pre-thread.o
+-rw-rw-r-- 1 rpinto rpinto     0 abr 27 10:32 tmp.txt

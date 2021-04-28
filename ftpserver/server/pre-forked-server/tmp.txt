@@ -1,0 +1,9 @@
+drwxrwxr-x  5 rpinto rpinto     4096 abr 22 01:18 IO
+drwxrwxr-x  4 rpinto rpinto     4096 abr 22 10:18 IO2
+-r--------  1 rpinto rpinto    37722 ene 21 00:52 my-cv.pdf
+drwxrwxr-x  7 rpinto rpinto     4096 abr 26 20:37 ProyectoSoftware
+-r--------  1 rpinto rpinto    36917 ene 21 01:01 RaquelPintoRosales-CV.pdf
+-rwxrwxr-x  1 rpinto rpinto 10606624 mar 12 22:12 rastreador
+drwxrwxr-x  2 rpinto rpinto     4096 feb 16 20:27 Seguridad
+drwxrwxr-x 16 rpinto rpinto     4096 abr 27 23:27 SO
+-rw-rw-r--  1 rpinto rpinto       38 abr 27 22:50 test_file.txt
